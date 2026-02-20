@@ -1,0 +1,306 @@
+id_transacao,data_venda,produto_categoria,valor_unitario,quantidade,metodo_pagamento,valor_total
+1001,2025-12-25,Eletrônicos,3846.58,1,Pix,3846.58
+1002,2025-03-04,,216.95,3,pix,650.8499999999999
+1003,2025-11-02,Eletrodomésticos,4911.77,5,Cartão de Crédito,24558.850000000002
+1004,2025-12-06,Eletrodomésticos,854.3,2,Transferência,1708.6
+1005,2025-07-01,Eletrônicos,1718.19,2,Boleto,3436.38
+1006,2025-10-24, ELETRÔNICOS ,3597.4,2,pix,7194.8
+1007,2025-10-15,Informática,3224.24,3,Pix,9672.72
+1008,2025-04-14,Eletrônicos,4248.47,5,Transferência,21242.350000000002
+1009,2025-06-11,Informática,2781.06,3,Transferência,8343.18
+1010,2025-12-22,Eletrônicos,354.33,4,Transferência,1417.32
+1011,2025-04-23,Informática,4802.0,1,Boleto,4802.0
+1012,2025-03-07,Smartphones,2480.15,1,Boleto,2480.15
+1013,2025-05-03,Informática,3024.89,1,Cartão de Crédito,3024.89
+1014,2025-03-12,Smartphones,1081.72,5,Cartão de Crédito,5408.6
+1015,2025-09-09,Smartphones,450.54,5,Cartão de Crédito,2252.7000000000003
+1016,2025-01-29,,1015.17,5,Boleto,5075.849999999999
+1017,2025-02-22,Smartphones,1046.46,1,Cartão de Crédito,1046.46
+1018,2025-03-24, ELETRÔNICOS ,4535.52,2,Boleto,9071.04
+1019,2025-07-11,Smartphones,4742.01,2,Pix,9484.02
+1020,2025-03-29,Informática,3569.16,4,Pix,14276.64
+1021,2025-11-15,Acessórios,124.92,2,Boleto,249.84
+1022,2025-08-13,Smartphones,4230.33,1,Boleto,4230.33
+1023,2025-11-11,Informática,4963.56,4,Cartão de Crédito,19854.24
+1024,2025-08-24,Eletrodomésticos,2951.58,5,Transferência,14757.9
+1025,2025-07-27,Eletrodomésticos,4380.21,5,pix,21901.05
+1026,2025-04-11,Smartphones,3428.43,5,Boleto,17142.149999999998
+1027,2025-02-03,Smartphones,3275.11,3,Boleto,9825.33
+1028,2025-10-02,Eletrodomésticos,2271.02,2,Pix,4542.04
+1029,2025-09-04, ELETRÔNICOS ,,2,Cartão de Crédito,2608.44
+1030,2025-08-16, ELETRÔNICOS ,3872.55,4,pix,15490.2
+1031,2025-08-11,Smartphones,2098.36,4,pix,8393.44
+1032,2025-11-17,Acessórios,1445.39,3,Boleto,4336.17
+1033,2025-01-13,Smartphones,4582.94,1,Transferência,4582.94
+1034,2025-06-24,Informática,542.28,1,Cartão de Crédito,542.28
+1035,2025-03-28,Smartphones,2815.38,3,Cartão de Crédito,8446.14
+1036,2025-05-19,Acessórios,4498.48,1,Pix,4498.48
+1037,2025-02-20, ELETRÔNICOS ,"R$ 1.500,00",3,Cartão de Crédito,11672.49
+1038,2025-05-17,Eletrodomésticos,4632.12,4,Transferência,18528.48
+1039,2025-04-28,Smartphones,778.26,3,Cartão de Crédito,2334.7799999999997
+1040,2025-12-02,Smartphones,4845.86,2,Pix,9691.72
+1041,2025-06-14,Eletrodomésticos,1780.54,2,Cartão de Crédito,3561.08
+1042,2025-08-21,Acessórios,2281.35,2,Cartão de Crédito,4562.7
+1043,2025-07-02,Eletrodomésticos,4238.08,3,Cartão de Crédito,12714.24
+1044,2025-11-20,Eletrônicos,960.79,3,Cartão de Crédito,2882.37
+1045,2025-03-15,Informática,1024.8,2,Boleto,2049.6
+1046,2025-08-28,Smartphones,2144.63,2,Transferência,4289.26
+1047,2025-06-04,Smartphones,3640.63,2,Boleto,7281.26
+1048,2025-04-24, ELETRÔNICOS ,4231.58,4,Cartão de Crédito,16926.32
+1049,2025-04-28,Eletrônicos,3131.33,3,Transferência,9393.99
+1050,2025-05-11, ELETRÔNICOS ,1255.32,2,Cartão de Crédito,2510.64
+1051,2025-06-08,Informática,4380.64,3,Cartão de Crédito,13141.920000000002
+1052,31/02/2025,Informática,227.38,2,Boleto,454.76
+1053,2025-12-18,Eletrodomésticos,785.81,4,Transferência,3143.24
+1054,2025-12-10,Eletrodomésticos,2058.25,1,Cartão de Crédito,2058.25
+1055,2025-07-19,,4430.02,4,Cartão de Crédito,17720.08
+1056,2025-11-09,Acessórios,3497.81,1,Transferência,3497.81
+1057,2025-02-24,Eletrônicos,1818.98,2,Boleto,3637.96
+1058,2025-10-06,Eletrônicos,1509.42,3,Transferência,4528.26
+1059,2025-04-05,Informática,2335.16,2,Cartão de Crédito,4670.32
+1060,2025-01-27,Informática,4123.51,5,Transferência,20617.550000000003
+1061,2025-11-12,Eletrodomésticos,196.95,5,Pix,984.75
+1062,2025-05-22,Eletrônicos,3053.56,1,Boleto,3053.56
+1063,2025-03-14, ELETRÔNICOS ,4166.92,4,Transferência,16667.68
+1064,2025-08-28,Eletrodomésticos,2595.07,3,Boleto,7785.210000000001
+1065,2025-02-14,Eletrônicos,"R$ 1.500,00",3,Transferência,2303.9700000000003
+1066,2025-07-24,Smartphones,2220.1,5,pix,11100.5
+1067,2025-11-21,Smartphones,987.44,4,Transferência,3949.76
+1068,2025-04-19, ELETRÔNICOS ,1791.63,3,Transferência,5374.89
+1069,2025-08-09,Acessórios,,2,Boleto,1133.08
+1070,2025-05-21,Informática,2531.72,4,Transferência,10126.88
+1071,2025-10-03, ELETRÔNICOS ,1383.42,3,Boleto,4150.26
+1072,2025-07-09, ELETRÔNICOS ,1272.33,5,Pix,6361.65
+1073,2025-10-14,Smartphones,4641.39,5,Transferência,23206.95
+1074,2025-08-20,Eletrônicos,,5,Transferência,9422.9
+1075,2025-04-13,Acessórios,4772.85,4,Boleto,19091.4
+1076,2025-06-27,Acessórios,4742.8,1,Cartão de Crédito,4742.8
+1077,2025-03-29,Informática,2890.62,3,Cartão de Crédito,8671.86
+1078,2025-03-18,Informática,299.85,3,Transferência,899.5500000000001
+1079,2025-02-20,Eletrodomésticos,2049.61,5,Pix,10248.050000000001
+1080,2025-11-02, ELETRÔNICOS ,505.45,2,Boleto,1010.9
+1081,2025-03-03, ELETRÔNICOS ,2031.93,1,Boleto,2031.93
+1082,2025-07-09, ELETRÔNICOS ,4818.01,2,Boleto,9636.02
+1083,2025-08-28,Informática,806.6,5,Pix,4033.0
+1084,2025-11-14,Informática,3425.14,3,Cartão de Crédito,10275.42
+1085,2025-06-29,Informática,"R$ 1.500,00",4,Transferência,2433.92
+1086,2025-06-10,Eletrônicos,1419.3,5,pix,7096.5
+1087,2025-06-11,Informática,2205.63,4,Boleto,8822.52
+1088,2025-01-04,Eletrônicos,1471.75,1,Boleto,1471.75
+1089,2025-09-06,Eletrônicos,2970.34,4,Transferência,11881.36
+1090,2025-11-16, ELETRÔNICOS ,4666.01,5,Transferência,23330.050000000003
+1091,2025-05-18,Smartphones,,4,pix,12593.76
+1092,2025-02-26,Smartphones,1521.22,3,Cartão de Crédito,4563.66
+1093,2025-08-28,Smartphones,1732.11,4,Cartão de Crédito,6928.44
+1094,2025-06-15,Eletrônicos,3798.1,2,Boleto,7596.2
+1095,2025-05-12,Informática,4667.22,5,Cartão de Crédito,23336.100000000002
+1096,2025-07-11,Eletrodomésticos,1258.53,5,Transferência,6292.65
+1097,2025-10-07,Eletrônicos,4128.18,5,Boleto,20640.9
+1098,2025-11-08,Informática,2931.95,2,Boleto,5863.9
+1099,2025-10-10,Smartphones,3971.44,1,Pix,3971.44
+1100,2025-09-12,Informática,"R$ 1.500,00",3,pix,11612.25
+1101,2025-07-13,Smartphones,285.11,5,Pix,1425.5500000000002
+1102,2025-02-01,Eletrodomésticos,4847.54,4,Transferência,19390.16
+1103,2025-01-10,Smartphones,1761.87,4,Pix,7047.48
+1104,2025-10-06,Acessórios,1332.03,3,Cartão de Crédito,3996.09
+1105,2025-12-26,,2349.64,3,Transferência,7048.92
+1106,2025-07-03,Eletrônicos,"R$ 1.500,00",3,Boleto,11006.19
+1107,2025-12-02,Smartphones,2410.86,4,Pix,9643.44
+1108,2025-04-11, ELETRÔNICOS ,943.17,5,Pix,4715.849999999999
+1109,2025-11-23,Informática,2726.97,4,Transferência,10907.88
+1110,2025-02-01,Eletrodomésticos,1739.85,4,Pix,6959.4
+1111,2025-01-21,Eletrônicos,1431.09,3,Boleto,4293.2699999999995
+1112,2025-03-06,Informática,1508.38,5,Cartão de Crédito,7541.900000000001
+1113,2025-10-16,Eletrodomésticos,2483.52,4,Transferência,9934.08
+1114,31/02/2025,Acessórios,1472.57,3,Boleto,4417.71
+1115,2025-11-03,Eletrodomésticos,2118.0,1,Boleto,2118.0
+1116,2025-12-10, ELETRÔNICOS ,,4,Cartão de Crédito,13215.32
+1117,2025-10-23,Informática,,1,Transferência,3438.04
+1118,31/02/2025,Eletrônicos,3079.07,2,Pix,6158.14
+1119,2025-08-30,Eletrônicos,4275.58,5,Pix,21377.9
+1120,2025-05-24,Eletrodomésticos,1609.73,2,Pix,3219.46
+1121,2025-11-01,Acessórios,1337.17,4,Transferência,5348.68
+1122,2025-02-15, ELETRÔNICOS ,,3,Boleto,713.4000000000001
+1123,31/02/2025,Smartphones,561.83,4,Boleto,2247.32
+1124,2025-09-27,Eletrônicos,1077.67,5,Transferência,5388.35
+1125,31/02/2025,Smartphones,1863.69,5,Boleto,9318.45
+1126,2025-01-11,Informática,"R$ 1.500,00",3,Cartão de Crédito,3826.7699999999995
+1127,2025-08-08, ELETRÔNICOS ,1778.86,4,pix,7115.44
+1128,2025-06-13,Eletrodomésticos,2989.39,5,Transferência,14946.949999999999
+1129,31/02/2025,Eletrodomésticos,912.34,3,Cartão de Crédito,2737.02
+1130,31/02/2025,Eletrodomésticos,2152.61,3,Transferência,6457.83
+1131,2025-04-06,Acessórios,4731.88,3,Transferência,14195.64
+1132,2025-04-16,Eletrodomésticos,4649.44,5,Transferência,23247.199999999997
+1133,2025-07-15,Eletrônicos,2481.76,3,Cartão de Crédito,7445.280000000001
+1134,2025-01-06,Eletrônicos,2020.23,5,Cartão de Crédito,10101.15
+1135,2025-10-12, ELETRÔNICOS ,1388.81,1,Boleto,1388.81
+1136,2025-09-09,Smartphones,1528.01,4,Boleto,6112.04
+1137,2025-10-29,Smartphones,4759.87,4,Boleto,19039.48
+1138,2025-09-25,Smartphones,3633.32,4,Boleto,14533.28
+1139,2025-10-15,Eletrodomésticos,4085.01,3,pix,12255.03
+1140,2025-09-02,Eletrônicos,639.92,3,Transferência,1919.7599999999998
+1141,2025-05-29, ELETRÔNICOS ,911.36,1,Pix,911.36
+1142,2025-04-03,Acessórios,4439.55,4,Pix,17758.2
+1143,2025-06-16,Acessórios,1413.18,2,Boleto,2826.36
+1144,2025-09-20,Informática,448.05,4,Transferência,1792.2
+1145,2025-09-02,,1783.65,1,pix,1783.65
+1146,2025-08-26,,211.14,1,Cartão de Crédito,211.14
+1147,2025-01-22,Smartphones,2495.13,1,Transferência,2495.13
+1148,2025-07-10,Eletrônicos,2198.01,5,Pix,10990.050000000001
+1149,2025-05-20,Eletrônicos,3361.24,5,Boleto,16806.199999999997
+1150,2025-07-14,Eletrodomésticos,"R$ 1.500,00",2,Pix,3442.78
+1151,2025-05-12,Smartphones,2473.05,3,Cartão de Crédito,7419.150000000001
+1152,2025-04-08,Acessórios,3285.68,5,Transferência,16428.399999999998
+1153,2025-10-05,Smartphones,2142.51,3,Pix,6427.530000000001
+1154,2025-10-27,Acessórios,,2,Cartão de Crédito,4697.3
+1155,2025-11-06,Informática,838.56,1,Boleto,838.56
+1156,2025-02-08,Eletrodomésticos,2045.87,5,Transferência,10229.349999999999
+1157,2025-01-23,,3737.4,1,Pix,3737.4
+1158,2025-06-20,Smartphones,803.24,4,Pix,3212.96
+1159,2025-04-12,Acessórios,3097.42,1,Transferência,3097.42
+1160,2025-05-31,,2655.74,1,Cartão de Crédito,2655.74
+1161,2025-11-16,Acessórios,2180.44,3,Transferência,6541.32
+1162,2025-09-17,Eletrodomésticos,1174.81,1,Cartão de Crédito,1174.81
+1163,2025-11-29, ELETRÔNICOS ,2799.16,2,Cartão de Crédito,5598.32
+1164,2025-04-20,Informática,1327.48,3,Boleto,3982.44
+1165,2025-03-24,Smartphones,4710.45,3,Boleto,14131.349999999999
+1166,2025-12-21,Eletrodomésticos,4670.84,3,Cartão de Crédito,14012.52
+1167,31/02/2025,Acessórios,3058.89,5,Cartão de Crédito,15294.449999999999
+1168,2025-12-20,Smartphones,2533.04,1,Cartão de Crédito,2533.04
+1169,2025-07-01, ELETRÔNICOS ,2746.96,4,pix,10987.84
+1170,2025-10-13,Eletrodomésticos,2243.14,5,Transferência,11215.699999999999
+1171,2025-02-26,Acessórios,4383.68,1,Pix,4383.68
+1172,2025-10-25,Eletrônicos,3938.65,5,Boleto,19693.25
+1173,2025-10-24,Smartphones,341.32,3,Cartão de Crédito,1023.96
+1174,2025-04-17,Informática,4105.37,2,Transferência,8210.74
+1175,2025-06-20, ELETRÔNICOS ,3164.57,4,pix,12658.28
+1176,2025-09-19,Eletrodomésticos,1248.44,2,Boleto,2496.88
+1177,2025-11-02,Eletrônicos,,4,Cartão de Crédito,8402.96
+1178,2025-10-27,Eletrodomésticos,3487.42,1,pix,3487.42
+1179,2025-01-20,Smartphones,3215.02,3,Boleto,9645.06
+1180,2025-04-03,Eletrodomésticos,2028.0,1,Boleto,2028.0
+1181,2025-02-19,Eletrônicos,2926.47,1,Cartão de Crédito,2926.47
+1182,2025-09-30,Eletrônicos,1461.98,5,Boleto,7309.9
+1183,2025-09-14,,2542.81,3,Boleto,7628.43
+1184,2025-01-30,Eletrônicos,2374.76,2,Boleto,4749.52
+1185,2025-08-08,Informática,353.96,3,Cartão de Crédito,1061.8799999999999
+1186,2025-04-04,Eletrônicos,3037.45,2,Boleto,6074.9
+1187,2025-09-17,Eletrônicos,781.49,2,Transferência,1562.98
+1188,2025-07-12,Eletrodomésticos,3917.55,4,Pix,15670.2
+1189,2025-06-23,Smartphones,4831.47,1,Cartão de Crédito,4831.47
+1190,2025-10-10, ELETRÔNICOS ,4373.47,5,pix,21867.350000000002
+1191,2025-09-12,Eletrodomésticos,3037.47,1,Pix,3037.47
+1192,2025-05-15,Eletrônicos,206.62,2,Cartão de Crédito,413.24
+1193,2025-06-22,Eletrodomésticos,1820.22,1,Pix,1820.22
+1194,2025-07-09,Eletrodomésticos,1656.74,1,Cartão de Crédito,1656.74
+1195,2025-08-22,Eletrodomésticos,1595.52,2,Boleto,3191.04
+1196,2025-10-16,Acessórios,2226.53,2,Cartão de Crédito,4453.06
+1197,31/02/2025,Eletrônicos,4107.77,5,Cartão de Crédito,20538.850000000002
+1198,2025-11-09,Smartphones,3664.32,2,Boleto,7328.64
+1199,2025-01-21,Eletrônicos,436.69,5,Cartão de Crédito,2183.45
+1200,2025-07-08,Smartphones,2870.99,1,Cartão de Crédito,2870.99
+1201,2025-05-25,Informática,2280.42,1,Boleto,2280.42
+1202,2025-07-10,Acessórios,2783.86,3,Cartão de Crédito,8351.58
+1203,2025-07-13,Eletrodomésticos,1179.03,2,Transferência,2358.06
+1204,31/02/2025,Informática,1659.08,3,Boleto,4977.24
+1205,2025-03-25,Acessórios,2542.87,3,Pix,7628.61
+1206,2025-02-04,Informática,2525.61,2,Cartão de Crédito,5051.22
+1207,2025-06-01,Eletrodomésticos,1081.39,1,Cartão de Crédito,1081.39
+1208,2025-11-23,Informática,2939.35,4,Cartão de Crédito,11757.4
+1209,2025-05-26,Smartphones,2430.3,1,pix,2430.3
+1210,2025-07-18,,2778.76,2,Boleto,5557.52
+1211,2025-06-17,Eletrodomésticos,664.93,1,Pix,664.93
+1212,2025-04-04,Informática,709.01,1,Pix,709.01
+1213,2025-05-12,Eletrodomésticos,272.63,4,Cartão de Crédito,1090.52
+1214,31/02/2025,Acessórios,492.3,1,pix,492.3
+1215,2025-03-22,Eletrônicos,1599.73,5,Cartão de Crédito,7998.65
+1216,2025-01-15,Smartphones,285.88,2,Pix,571.76
+1217,2025-09-03, ELETRÔNICOS ,,3,Transferência,7934.789999999999
+1218,2025-05-26,Smartphones,4889.45,2,Pix,9778.9
+1219,2025-03-26,Informática,4951.28,3,Cartão de Crédito,14853.84
+1220,2025-07-13,Smartphones,4060.1,5,Pix,20300.5
+1221,2025-12-01,Informática,3839.8,1,Pix,3839.8
+1222,2025-10-31, ELETRÔNICOS ,1021.41,2,Transferência,2042.82
+1223,2025-10-09,Acessórios,62.28,5,Boleto,311.4
+1224,31/02/2025,,592.66,5,Transferência,2963.2999999999997
+1225,2025-09-20,Eletrodomésticos,4989.24,5,Cartão de Crédito,24946.199999999997
+1226,2025-09-30,Informática,2591.48,4,Cartão de Crédito,10365.92
+1227,2025-12-10, ELETRÔNICOS ,4801.78,3,Pix,14405.34
+1228,2025-06-07,Eletrônicos,3847.46,3,Transferência,11542.380000000001
+1229,2025-02-19,Acessórios,4030.13,1,Cartão de Crédito,4030.13
+1230,2025-11-29,Informática,4820.1,5,Pix,24100.5
+1231,2025-01-15,Smartphones,3981.0,3,Pix,11943.0
+1232,31/02/2025,,2784.84,5,Transferência,13924.2
+1233,2025-03-28,Acessórios,3509.83,5,Boleto,17549.15
+1234,2025-02-19,Eletrônicos,4534.76,2,Boleto,9069.52
+1235,2025-10-01,Acessórios,985.38,3,pix,2956.14
+1236,2025-04-08,Informática,3691.57,5,Boleto,18457.850000000002
+1237,2025-12-14,Informática,4954.41,1,pix,4954.41
+1238,2025-09-11,Acessórios,779.88,2,Cartão de Crédito,1559.76
+1239,2025-05-02,Informática,,5,pix,9441.2
+1240,2025-09-29,Smartphones,2720.73,4,Pix,10882.92
+1241,2025-01-30,Acessórios,1394.93,1,pix,1394.93
+1242,2025-03-12,Smartphones,2817.59,1,Cartão de Crédito,2817.59
+1243,2025-07-05,,4211.73,4,Boleto,16846.92
+1244,2025-07-27,Informática,2696.0,3,Boleto,8088.0
+1245,2025-12-13,Informática,2580.88,4,Transferência,10323.52
+1246,2025-05-15,Eletrodomésticos,3559.35,4,Boleto,14237.4
+1247,2025-02-02,Acessórios,4166.91,2,Pix,8333.82
+1248,2025-05-27,Acessórios,4617.83,4,pix,18471.32
+1249,2025-11-29,Smartphones,860.8,5,Boleto,4304.0
+1250,2025-03-12,Acessórios,4109.05,3,pix,12327.150000000001
+1251,2025-11-21,Eletrodomésticos,4807.96,1,Cartão de Crédito,4807.96
+1252,2025-08-04,Smartphones,2757.13,1,Boleto,2757.13
+1253,2025-10-27,Smartphones,4747.99,4,Pix,18991.96
+1254,2025-04-17,Smartphones,"R$ 1.500,00",5,Pix,13457.3
+1255,2025-09-04,Informática,2616.47,2,Pix,5232.94
+1256,2025-01-03,Eletrônicos,2686.28,4,Boleto,10745.12
+1257,2025-05-31,Eletrodomésticos,4539.18,3,Boleto,13617.54
+1258,2025-10-06,Acessórios,3405.68,3,Cartão de Crédito,10217.039999999999
+1259,2025-01-05,Smartphones,3061.22,3,pix,9183.66
+1260,2025-08-10,Informática,3754.52,4,Boleto,15018.08
+1261,2025-05-27,Eletrodomésticos,738.94,2,Transferência,1477.88
+1262,2025-02-22,Eletrônicos,4295.32,3,Pix,12885.96
+1263,2025-02-23,Eletrodomésticos,3139.26,3,Pix,9417.78
+1264,2025-05-15,Acessórios,4977.21,3,pix,14931.630000000001
+1265,2025-09-13,Acessórios,1070.53,2,Pix,2141.06
+1266,2025-11-29,Eletrônicos,1202.64,3,Cartão de Crédito,3607.92
+1267,2025-02-28,Smartphones,4893.65,1,Cartão de Crédito,4893.65
+1268,2025-04-07,Acessórios,1210.49,3,Transferência,3631.4700000000003
+1269,2025-12-13,Informática,1329.24,3,Cartão de Crédito,3987.7200000000003
+1270,2025-07-13,Smartphones,2451.35,2,Cartão de Crédito,4902.7
+1271,2025-02-06,Smartphones,1717.88,2,Cartão de Crédito,3435.76
+1272,2025-03-19,Informática,3589.84,5,Boleto,17949.2
+1273,2025-04-07,Eletrônicos,4133.38,1,Pix,4133.38
+1274,2025-06-04,Acessórios,1750.79,5,pix,8753.95
+1275,2025-10-13, ELETRÔNICOS ,4022.32,1,Boleto,4022.32
+1276,2025-06-26,Acessórios,2502.2,4,Pix,10008.8
+1277,2025-10-16,Acessórios,"R$ 1.500,00",5,Cartão de Crédito,17834.25
+1278,2025-01-01,Acessórios,1385.06,3,pix,4155.18
+1279,31/02/2025,Eletrônicos,"R$ 1.500,00",1,Cartão de Crédito,4844.65
+1280,2025-06-06,Informática,2901.42,3,Pix,8704.26
+1281,2025-05-12,Eletrônicos,1171.65,3,Transferência,3514.9500000000003
+1282,2025-11-15,Informática,3131.9,3,pix,9395.7
+1283,2025-06-22,Eletrodomésticos,142.14,2,Transferência,284.28
+1284,31/02/2025,Acessórios,,4,Pix,4680.8
+1285,2025-12-26,Eletrodomésticos,3101.33,4,Transferência,12405.32
+1286,2025-02-25, ELETRÔNICOS ,1195.81,4,Pix,4783.24
+1287,2025-02-21,Acessórios,1650.71,3,Pix,4952.13
+1288,2025-11-29,Eletrônicos,2179.69,3,Transferência,6539.07
+1289,2025-12-02,Informática,2013.93,4,Pix,8055.72
+1290,2025-11-04,Informática,2871.36,2,Cartão de Crédito,5742.72
+1291,2025-03-13,Eletrodomésticos,1427.32,1,Boleto,1427.32
+1292,2025-11-08,Eletrodomésticos,1752.47,1,Cartão de Crédito,1752.47
+1293,2025-04-21,Acessórios,1399.98,3,Transferência,4199.9400000000005
+1294,2025-12-04,Eletrodomésticos,1314.48,5,Pix,6572.4
+1295,2025-10-24,Eletrônicos,,3,Boleto,13383.630000000001
+1296,2025-09-07,Eletrodomésticos,3969.7,1,Boleto,3969.7
+1297,2025-08-09,Eletrodomésticos,,3,Cartão de Crédito,481.47
+1298,2025-08-23,Acessórios,1114.23,1,pix,1114.23
+1299,2025-05-19,Acessórios,1824.4,3,Pix,5473.200000000001
+1300,2025-07-22,Eletrônicos,,3,Cartão de Crédito,10789.380000000001
+1001,2025-12-25,Eletrônicos,3846.58,1,Pix,3846.58
+1002,2025-03-04,,216.95,3,pix,650.8499999999999
+1003,2025-11-02,Eletrodomésticos,4911.77,5,Cartão de Crédito,24558.850000000002
+1004,2025-12-06,Eletrodomésticos,854.3,2,Transferência,1708.6
+1005,2025-07-01,Eletrônicos,1718.19,2,Boleto,3436.38
