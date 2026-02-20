@@ -1,3 +1,10 @@
+## Vamos nos conectar:
+[Linkedin](https://www.linkedin.com/in/jeduardosleite/)
+---
+
+![image](imagem/title.png)
+
+
 # Objetivo
   O objetivo dessa atividade é simular um cenário real de limpeza de dados, fazendo uma análise completa das variáveis e, posteriormente, importar para o Power BI.
 
