@@ -28,3 +28,16 @@ Essa atividade teve como objetivo criar um aplicativo simples para praticar as f
 - loop for
 - if...elif...else
 - try...except
+
+---
+
+# Como executar o projeto (app.py)
+
+
+```bash
+git clone https://github.com/jeduardosleite/Private-activities.git
+
+cd Private-activities/sabor_expresso_app
+
+python app.py
+```
