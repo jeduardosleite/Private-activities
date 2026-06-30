@@ -1,4 +1,4 @@
-<img src="imagem/capa.jpge" width="700">
+<img src="imagem/capa.jpeg" width="700">
 
 # [Python]Desafio proposto pela DSA utilizando Pandas e Numpy.
 ## Missão: Analisar o Comportamento de Compra de Consumidores.
